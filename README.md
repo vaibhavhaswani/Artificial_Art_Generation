@@ -10,7 +10,7 @@
 ### Generate Random Art
 1. Open the project directory in terminal/shell
 2. Run the art generator script as -
-> python art_with_gans.py
+``` python art_with_gans.py```
 3. A random art will be saved on your current directory as 'generated_art.jpg'
 
 ### Training Process
